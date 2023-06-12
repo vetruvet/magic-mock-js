@@ -1,0 +1,23 @@
+{
+  "name": "magic-mock",
+  "version": "1.0.0",
+  "description": "TS implementation of python's MagicMock",
+  "type": "module",
+  "main": "dist/index.mjs",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vetruvet/magic-mock-js.git"
+  },
+  "author": "Valera Trubachev <vetruvet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vetruvet/magic-mock-js/issues"
+  },
+  "homepage": "https://github.com/vetruvet/magic-mock-js#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
